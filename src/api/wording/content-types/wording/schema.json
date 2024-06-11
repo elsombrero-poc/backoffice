@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "wordings",
+  "info": {
+    "singularName": "wording",
+    "pluralName": "wordings",
+    "displayName": "Wording",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "token": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "page": {
+      "type": "string"
+    }
+  }
+}
